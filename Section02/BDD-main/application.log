@@ -1,0 +1,102 @@
+2021-09-08 04:10:59,404  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 04:11:00,225  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 04:11:19,570  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 04:11:20,334  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:06,057  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 08:53:06,958  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:24,330  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 08:53:25,237  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:22:47,345  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:28:26,216  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:29:22,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:40:12,916  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:40:13,214  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:40:30,253  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:40:30,530  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:41:56,677  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:41:56,922  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:42:13,645  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:42:13,868  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:31,363  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:45:31,569  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:45,805  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:45:45,980  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:50:18,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:50:19,185 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:53:32,658  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:59:19,574  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:01:51,106  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 11:01:51,384  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:02:11,222  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 11:02:11,492  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:04:28,851  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:06:02,039  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 11:07:02,504 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-04 13:34:21,764 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_LK", UTF-8, parsed); will try to load it.
+2023-11-04 13:34:21,765 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_LK.ftl"): Not found
+2023-11-04 13:34:21,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-11-04 13:34:21,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-11-04 13:34:21,766 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_LK", UTF-8, parsed) from "jar:file:/Users/nethmininandadewa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-04 13:34:21,845 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_LK", UTF-8, parsed); will try to load it.
+2023-11-04 13:34:21,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_LK.ftl"): Not found
+2023-11-04 13:34:21,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-11-04 13:34:21,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-11-04 13:34:21,846 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_LK", UTF-8, parsed) from "jar:file:/Users/nethmininandadewa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-04 18:30:27,539  INFO [main] LoginPage:77 - User name enterd as admin
+2023-11-04 18:30:27,624  INFO [main] HomePage:51 - Validated Logo
+2023-11-04 18:31:17,195  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-04 18:31:17,281  INFO [main] HomePage:51 - Validated Logo
+2023-11-04 18:31:47,589  INFO [main] LoginPage:77 - User name enterd as nethmini
+2023-11-04 18:31:47,666  INFO [main] HomePage:51 - Validated Logo
+2023-11-04 18:32:12,882  INFO [main] LoginPage:77 - User name enterd as nethmini
+2023-11-04 18:32:12,957  INFO [main] HomePage:51 - Validated Logo
+2023-11-04 18:32:55,726  INFO [main] UsersPage:46 - First name entered as Dilki
+2023-11-04 18:32:55,780  INFO [main] UsersPage:53 - First name entered as Premarathna
+2023-11-04 18:32:55,835  INFO [main] UsersPage:60 - Email entered as dilki2757@gmail.com
+2023-11-04 18:32:56,040  INFO [main] UsersPage:65 - Create new user button click!
+2023-11-04 18:48:35,458  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 18:48:35,513  INFO [main] UsersPage:56 - First name entered as Premarathna
+2023-11-04 18:48:35,567  INFO [main] UsersPage:63 - Email entered as dilki2757@gmail.com
+2023-11-04 18:48:35,771  INFO [main] UsersPage:68 - Create new user button click!
+2023-11-04 18:53:10,580  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 18:53:10,634  INFO [main] UsersPage:56 - First name entered as Premarathna
+2023-11-04 18:53:10,685  INFO [main] UsersPage:63 - Email entered as dilki2757@gmail.com
+2023-11-04 18:53:10,889  INFO [main] UsersPage:68 - Create new user button click!
+2023-11-04 18:55:02,889  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 18:55:02,941  INFO [main] UsersPage:56 - First name entered as Premarathna
+2023-11-04 18:55:02,994  INFO [main] UsersPage:63 - Email entered as dilki2757@gmail.com
+2023-11-04 18:55:03,201  INFO [main] UsersPage:68 - Create new user button click!
+2023-11-04 18:57:29,173  INFO [main] UsersPage:49 - First name entered as Dilki
+2023-11-04 18:57:29,223  INFO [main] UsersPage:56 - First name entered as Premarathna
+2023-11-04 18:57:29,276  INFO [main] UsersPage:63 - Email entered as dilki2757@gmail.com
+2023-11-04 18:57:29,475  INFO [main] UsersPage:68 - Create new user button click!
+2023-11-04 19:29:28,723  INFO [main] UsersPage:49 - First name is entered as Dilki
+2023-11-04 19:29:28,772  INFO [main] UsersPage:56 - First name is entered as Premarathna
+2023-11-04 19:29:28,822  INFO [main] UsersPage:63 - Email is entered as dilki2757@gmail.com
+2023-11-04 19:29:29,033  INFO [main] UsersPage:68 - Save & send invitation button is clicked
